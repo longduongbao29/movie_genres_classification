@@ -62,8 +62,5 @@ The model used for classification is a neural network built using TensorFlow and
 ## Results
 The results of the model, including accuracy, precision, recall, and F1-score, are presented in the notebook. Visualizations such as confusion matrices and classification reports are also included to provide a comprehensive evaluation of the model's performance.
 
-## Contributing
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request. Ensure that your contributions align with the project's coding standards and guidelines.
+![image](https://github.com/longduongbao29/movie_genres_classification/assets/100985573/e1da27d4-3f90-45db-903c-eae0c6f8c071)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
